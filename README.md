@@ -13,7 +13,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrodomingues2051@gmail.com)
 
-## Outros repositórios / other repositories
+## 🔗 Outros repositórios / other repositories
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandrocunha526)
 

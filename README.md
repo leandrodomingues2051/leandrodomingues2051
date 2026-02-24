@@ -21,10 +21,4 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Leandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandrodomingues2051&show_icons=true&theme=tokyonight&hide_rank=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrodomingues2051&layout=compact&theme=tokyonight)
-
-</div>
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=leandrodomingues2051&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
